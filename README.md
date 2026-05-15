@@ -142,7 +142,7 @@ Recommended order for learning:
 
 ## Author
 
-### Amit Chandra Roy
+### Md Arafat Rahman Sohan
 
 - GitHub: https://github.com/ars2k03
 
